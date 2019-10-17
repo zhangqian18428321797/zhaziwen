@@ -1,3 +1,4 @@
 print("全世界")
 print("张冰生")
 print("张子文")
+print("啦啦啦啦")
